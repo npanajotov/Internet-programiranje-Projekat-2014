@@ -1,7 +1,9 @@
 # ip-projekat
+#Internet programiranje - Projekat 2013/14
 Informacioni sistem za labaratorije
 
 Autor: Nikola Panajotov
+
 Profesor: Boško Nikolić
 
 Neophodno za pokretanje aplikacije:
