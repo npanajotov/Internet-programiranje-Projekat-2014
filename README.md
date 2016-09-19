@@ -12,5 +12,5 @@ MySQL Drajver (ukoliko se koristi MySQL) - http://home.etf.rs/~draskovic/viser/i
 
 Tomcat Apache - http://tomcat.apache.org/
 
-NetBeans, Eclipse 
+NetBeans, Eclipse, IntelliJ IDEA
 
