@@ -1,4 +1,3 @@
-# ip-projekat
 #Internet programiranje - Projekat 2013/14
 Informacioni sistem za labaratorije
 
